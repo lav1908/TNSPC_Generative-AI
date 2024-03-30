@@ -15,3 +15,4 @@ THE WOW IN YOUR SOLUTION: Our GAN-based system not only generates visually appea
 MODELING: Implement a GAN architecture consisting of a generator and a discriminator trained on a dataset of landscape images. Fine-tune the model to capture intricate details and artistic styles.
 
 RESULTS: Showcase the generated landscape paintings demonstrating the realism, diversity, and artistic quality achieved by the GAN model. Highlight the system's ability to generate novel and compelling landscapes based on user input or preferences. Provide quantitative metrics (if applicable) to measure the model's performance in terms of image quality and diversity.
+
